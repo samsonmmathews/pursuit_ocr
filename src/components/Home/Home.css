@@ -1,0 +1,14 @@
+section {
+  background-color: #FFFFFF;
+  color: #333333;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 376px;
+}
+
+section button {
+  width: 790px;
+  background: linear-gradient(to right, #CC6699 30%, #FBAB28);
+}
