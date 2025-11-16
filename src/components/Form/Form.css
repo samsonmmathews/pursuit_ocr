@@ -1,0 +1,32 @@
+#form-container {
+  padding: 370px;
+  background-image: url('/form_background.svg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#form-wrapper {
+  display: flex;
+  border: 9px solid #FFFFFF;
+}
+
+#info-container {
+    height: 323px;
+    width: 506px;
+}
+
+form {
+  width: 556px;
+  height: 448px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+#form-wrapper form input,
+#form-wrapper form textarea,
+#form-wrapper form button {
+  width: 100%;
+  box-sizing: border-box;
+}

@@ -1,0 +1,11 @@
+
+#hero-container {
+    position: relative;
+    top: -119px;
+    z-index: -1;
+    margin-bottom: -119px;
+}
+
+#hero-image {
+    width: 100%;
+}
