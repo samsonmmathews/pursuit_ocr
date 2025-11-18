@@ -17,16 +17,18 @@ const Form = () => {
                 </section>
 
                 <form>
+                    <div className='form-heading'>
+                        <h2>Say Hello!</h2>
+                    </div>
                     <div>
                             <input type="text" placeholder="Your Name" />
                     </div>
                     <div>
                             <input type="text" placeholder="Your Email" />
                     </div>
-                    <textarea placeholder="Your Message"></textarea>
+                    <textarea id='message' placeholder="Your Message" name='message'></textarea>
                     <div>
                         <button type="button">Contact us</button>
-                        <button type="submit">Submit</button>
                     </div>
                 </form>
             </section>
