@@ -3,7 +3,6 @@
 #hero-container {
     position: relative;
     top: -119px;
-    z-index: -1;
     margin-bottom: -119px;
 }
 
@@ -43,4 +42,10 @@
     padding: 10px 15px;
     border: none;
     border-radius: 50px;
+}
+
+#submitBtn:hover {
+    background: none;
+    background-color: white;
+    color: black;
 }
