@@ -19,12 +19,12 @@ const Footer = () => {
               <div className="footer-nav-wrapper">
                 <nav className="footer-nav-container">
                   <ul className="footer-nav-list">
-                    <li><a href="#about" className="footer-nav-link">About</a></li>
-                    <li><a href="#tickets" className="footer-nav-link">Tickets</a></li>
-                    <li><a href="#faq" className="footer-nav-link">FAQ</a></li>
-                    <li><a href="#contact" className="footer-nav-link">Contact</a></li>
-                    <li><a href="#privacy" className="footer-nav-link">Privacy Policy</a></li>
-                    <li><a href="#terms" className="footer-nav-link">Terms and Conditions</a></li>
+                    <li><a href="https://pursuitocr.com/about/" className="footer-nav-link">About</a></li>
+                    <li><a href="https://feverup.com/m/485979?utm_source=landing&utm_medium=partner&utm_campaign=485979_yyz&utm_term=46416" className="footer-nav-link">Tickets</a></li>
+                    <li><a href="https://pursuitocr.com/faq/" className="footer-nav-link">FAQ</a></li>
+                    <li><a href="https://pursuitocr.com/contact/" className="footer-nav-link">Contact</a></li>
+                    <li><a href="https://pursuitocr.com/privacy-policy/" className="footer-nav-link">Privacy Policy</a></li>
+                    <li><a href="https://pursuitocr.com/terms-and-conditions/" className="footer-nav-link">Terms and Conditions</a></li>
                   </ul>
                 </nav>
               </div>
