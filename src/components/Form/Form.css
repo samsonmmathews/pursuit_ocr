@@ -6,6 +6,18 @@
   padding: 212px;
 }
 
+#form-container::before {
+  position: relative;
+  content: "";
+  width: 0;
+  height: 0;
+  border-top: 100px solid transparent;
+  border-right: 100vw solid #FFFFFF;
+  border-bottom: 0;
+  left: -212px;
+  top: -234px;
+}
+
 #form-wrapper {
   display: flex;
   width: 1112px;
