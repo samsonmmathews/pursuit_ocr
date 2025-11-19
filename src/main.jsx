@@ -4,7 +4,5 @@ import './index.css'
 import Layout from './Layout.jsx'
 
 createRoot(document.getElementById('root')).render(
-  <StrictMode>
     <Layout />
-  </StrictMode>,
 )
