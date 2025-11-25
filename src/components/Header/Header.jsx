@@ -37,55 +37,55 @@ const Header = () => {
                 </nav>
             </div>
             <nav className="main-nav">
-            <div className="nav-container">
-                <a href="/">
-                    <img src="https://api.builder.io/api/v1/image/assets/TEMP/4c597c48bd3526013ce6b380a7f4f1d2d4c8f73b?width=250" alt="Pursuit OCR" className="logo" />
-                </a>
-                <ul className="nav-menu">
-                    <li className="nav-item">
-                        <a href="/" className="nav-link active">
-                        Home
-                        <span className="nav-underline"></span>
-                        </a>
-                    </li>
-                    <li className="nav-item">
-                        <a href="https://mono.wherewolf.co.nz/73z6u5" className="nav-link">
-                        Waiver
-                        {/* <span className="nav-underline"></span> */}
-                        </a>
-                    </li>
-                    <li className="nav-item">
-                        <a href="https://pursuitocr.com/faq/" className="nav-link">
-                        FAQ
-                        {/* <span className="nav-underline"></span> */}
-                        </a>
-                    </li>
-                    <li className="nav-item">
-                        <a href="https://feverup.com/m/485979?utm_source=landing&utm_medium=partner&utm_campaign=485979_yyz&utm_term=46416" className="nav-link">
-                        Tickets
-                        {/* <span className="nav-underline"></span> */}
-                        </a>
-                    </li>
-                    <li className="nav-item">
-                        <a href="https://pursuitocr.com/corporate-wellness-team-building/" className="nav-link">
-                        Team Building
-                        {/* <span className="nav-underline"></span> */}
-                        </a>
-                    </li>
-                    <li className="nav-item">
-                        <a href="/ourSpace" className="nav-link">
-                        Our Space
-                        {/* <span className="nav-underline"></span> */}
-                        </a>
-                    </li>
-                    <li className="nav-item">
-                        <a href="https://pursuitocr.com/contact/" className="nav-link">
-                        Contact
-                        {/* <span className="nav-underline"></span> */}
-                        </a>
-                    </li>
-                </ul>
-            </div>
+                <div className="nav-container">
+                    <a href="/">
+                        <img src="https://api.builder.io/api/v1/image/assets/TEMP/4c597c48bd3526013ce6b380a7f4f1d2d4c8f73b?width=250" alt="Pursuit OCR" className="logo" />
+                    </a>
+                    <ul className="nav-menu">
+                        <li className="nav-item">
+                            <a href="/" className="nav-link active">
+                            Home
+                            <span className="nav-underline"></span>
+                            </a>
+                        </li>
+                        <li className="nav-item">
+                            <a href="https://mono.wherewolf.co.nz/73z6u5" className="nav-link">
+                            Waiver
+                            {/* <span className="nav-underline"></span> */}
+                            </a>
+                        </li>
+                        <li className="nav-item">
+                            <a href="https://pursuitocr.com/faq/" className="nav-link">
+                            FAQ
+                            {/* <span className="nav-underline"></span> */}
+                            </a>
+                        </li>
+                        <li className="nav-item">
+                            <a href="https://feverup.com/m/485979?utm_source=landing&utm_medium=partner&utm_campaign=485979_yyz&utm_term=46416" className="nav-link">
+                            Tickets
+                            {/* <span className="nav-underline"></span> */}
+                            </a>
+                        </li>
+                        <li className="nav-item">
+                            <a href="https://pursuitocr.com/corporate-wellness-team-building/" className="nav-link">
+                            Team Building
+                            {/* <span className="nav-underline"></span> */}
+                            </a>
+                        </li>
+                        <li className="nav-item">
+                            <a href="/ourSpace" className="nav-link">
+                            Our Space
+                            {/* <span className="nav-underline"></span> */}
+                            </a>
+                        </li>
+                        <li className="nav-item">
+                            <a href="https://pursuitocr.com/contact/" className="nav-link">
+                            Contact
+                            {/* <span className="nav-underline"></span> */}
+                            </a>
+                        </li>
+                    </ul>
+                </div>
             </nav>
         </header>
     )

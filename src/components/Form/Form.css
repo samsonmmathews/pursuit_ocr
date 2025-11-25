@@ -3,8 +3,10 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  padding: 212px;
+  padding: 212px 0;
+  width: 100%;
 }
+
 
 #form-container::before {
   position: relative;
@@ -14,7 +16,6 @@
   border-top: 100px solid transparent;
   border-right: 100vw solid #FFFFFF;
   border-bottom: 0;
-  left: -212px;
   top: -234px;
 }
 
@@ -23,6 +24,7 @@
   width: 1112px;
   border: 9px solid #b3b3b3;
   margin: 0 auto;
+  min-width: 1180px;
 }
 
 .form-heading {
@@ -34,6 +36,7 @@
     height: 323px;
     width: 506px;
     margin: 67px 25px 125px 57px;
+    min-width: 506px;
 }
 
 form {
@@ -44,6 +47,7 @@ form {
   margin: 67px 50px 100px 25px;
   flex-direction: column;
   justify-content: space-between;
+  min-width: 506px;
 }
 
 #heading-1 {
